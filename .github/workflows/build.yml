@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   # on a schedule at 7pm every weekday
   schedule:
-    - cron: '0 19 * * 1-5'
+    - cron: "0 19 * * 1-5"
 
 jobs:
   build:
@@ -19,7 +19,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Configure NPM caching
         uses: actions/cache@v2
@@ -35,7 +35,7 @@ jobs:
       - name: Update README.md
         run: |-
           npm run build
-          cat README.md
+          cat profile/README.md
 
       - name: Commit and push if changed
         run: |-

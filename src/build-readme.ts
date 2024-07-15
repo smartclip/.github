@@ -3,7 +3,7 @@ import { readSync } from "to-vfile";
 import { remark } from "remark";
 import { zone } from "mdast-zone";
 import { promisify } from "node:util";
-import { writeFile } from "node:fs";
+import { writeFile, readdirSync } from "node:fs";
 import { join } from "node:path";
 import type { Root } from "mdast";
 
