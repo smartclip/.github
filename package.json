@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/smartclip/.github.git"
   },
-  "author": "Christoph Werner <christop.werner@smartclip.tv>",
+  "author": "Christoph Werner <christoph.werner@smartclip.tv>",
   "scripts": {
     "build": "run-s build:*",
     "build:clean": "node -e \"fs.rmSync('dist', { force: true, recursive: true })\"",
