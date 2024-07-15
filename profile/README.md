@@ -1,2 +1,37 @@
-smartclip is the adtech development unit of RTL Group — Europe’s leading free-to-air broadcaster group. Our advertising technology is custom-built for the needs of European broadcasters and publishers — enabling media owners to implement smarter monetisation strategies. We are committed to delivering the most innovative ad experiences spanning in-stream, out-stream, addressable TV, connected TV, audio, and gaming — ultimately empowering brands with true cross-screen storytelling opportunities on all devices.
+<table><tr><td valign="top" width="50%">
+
+### Love open source? You’re in good company
+
+smartclip is the adtech development unit of RTL Group — Europe’s leading free-to-air broadcaster group. Our advertising technology is custom-built for the needs of European broadcasters and publishers — enabling media owners to implement smarter monetisation strategies.
+
+We are committed to delivering the most innovative ad experiences spanning in-stream, out-stream, addressable TV, connected TV, audio, and gaming — ultimately empowering brands with true cross-screen storytelling opportunities on all devices.
+
 Headquartered in Hamburg, smartclip has offices in Berlin, Munich, Düsseldorf, Cologne, Gütersloh, Amsterdam, and Paris.
+
+</td><td valign="top" width="50%">
+
+### Ready for a new chapter in your career?
+
+Browse through our open positions below.
+
+<!-- jobs start -->
+
+* [Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/4732657-full-stack-software-engineer-f-m-d-react-node-js)
+
+* [Software Engineer - C++ (f/m/d)](https://careers.smartclip.tv/jobs/4674515-software-engineer-c-f-m-d)
+
+* [Technical Product Owner (f/m/d)](https://careers.smartclip.tv/jobs/4494404-technical-product-owner-f-m-d)
+
+* [Software Engineer API (f/m/d) - Node.js, Typescript](https://careers.smartclip.tv/jobs/4480061-software-engineer-api-f-m-d-node-js-typescript)
+
+* [Business Product Manager (f/m/d) - AdTech](https://careers.smartclip.tv/jobs/3810900-business-product-manager-f-m-d-adtech)
+
+* [Software Engineer (w/m/d) - TV](https://careers.smartclip.tv/jobs/3735598-software-engineer-w-m-d-tv)
+
+* [DevOps Engineer - Kubernetes (w/m/d)](https://careers.smartclip.tv/jobs/3484706-devops-engineer-kubernetes-w-m-d)
+
+* [Data Engineer - TV Data (w/m/d)](https://careers.smartclip.tv/jobs/2948619-data-engineer-tv-data-w-m-d)
+
+<!-- jobs end -->
+
+</td></tr></table>

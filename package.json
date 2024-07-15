@@ -1,0 +1,33 @@
+{
+  "name": "@smartclip/.github",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "main": "dist/build-readme.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartclip/.github.git"
+  },
+  "author": "Christoph Werner <christop.werner@smartclip.tv>",
+  "scripts": {
+    "build": "run-s build:*",
+    "build:clean": "node -e \"fs.rmSync('dist', { force: true, recursive: true })\"",
+    "build:tsc": "tsc",
+    "build:readme": "node dist/build-readme.js",
+    "format": "prettier -w ."
+  },
+  "packageManager": "npm@10.8.1",
+  "dependencies": {
+    "mdast-zone": "^6.1.0",
+    "remark": "^15.0.1",
+    "rss-parser": "^3.13.0",
+    "to-vfile": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/mdast": "^4.0.4",
+    "@types/node": "^20.14.10",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.3"
+  }
+}
