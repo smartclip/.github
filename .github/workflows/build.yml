@@ -39,7 +39,8 @@ jobs:
           npm run build
           cat profile/README.md
 
-      - name: Commit and push if changed
+      - name: Commit and push if on `main` and changes exist
+        if: github.ref == 'refs/heads/main'
         run: |-
           git diff
           git config --global user.email "christoph.werner@smartclip.tv"
