@@ -45,5 +45,5 @@ jobs:
           git diff
           git config --global user.email "christoph.werner@smartclip.tv"
           git config --global user.name "Christoph Werner"
-          git commit -am "chore: updated README jobs" || exit 0
+          git commit -am "chore: update `README` jobs [no-ci]" || exit 0
           git push
