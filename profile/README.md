@@ -18,11 +18,15 @@ Browse through our open positions below.
 
 * [Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/4732657-full-stack-software-engineer-f-m-d-react-node-js)
 
+* [Software Engineer - C++ (f/m/d)](https://careers.smartclip.tv/jobs/4674515-software-engineer-c-f-m-d)
+
 * [Technical Product Owner (f/m/d)](https://careers.smartclip.tv/jobs/4494404-technical-product-owner-f-m-d)
 
 * [Software Engineer API (f/m/d) - Node.js, Typescript](https://careers.smartclip.tv/jobs/4480061-software-engineer-api-f-m-d-node-js-typescript)
 
-* [Business Product Manager (f/m/d) - Adtech](https://careers.smartclip.tv/jobs/3810900-business-product-manager-f-m-d-adtech)
+* [Business Product Manager (f/m/d) - AdTech](https://careers.smartclip.tv/jobs/3810900-business-product-manager-f-m-d-adtech)
+
+* [Software Engineer (w/m/d) - TV](https://careers.smartclip.tv/jobs/3735598-software-engineer-w-m-d-tv)
 
 * [DevOps Engineer - Kubernetes (w/m/d)](https://careers.smartclip.tv/jobs/3484706-devops-engineer-kubernetes-w-m-d)
 
