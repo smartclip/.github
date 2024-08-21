@@ -22,8 +22,6 @@ Browse through our open positions below.
 
 * [Software Engineer API (f/m/d) - Node.js, Typescript](https://careers.smartclip.tv/jobs/4480061-software-engineer-api-f-m-d-node-js-typescript)
 
-* [Business Product Manager (f/m/d) - AdTech](https://careers.smartclip.tv/jobs/3810900-business-product-manager-f-m-d-adtech)
-
 * [DevOps Engineer - Kubernetes (w/m/d)](https://careers.smartclip.tv/jobs/3484706-devops-engineer-kubernetes-w-m-d)
 
 * [Data Engineer - TV Data (w/m/d)](https://careers.smartclip.tv/jobs/2948619-data-engineer-tv-data-w-m-d)
