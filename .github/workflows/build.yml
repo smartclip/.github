@@ -43,7 +43,7 @@ jobs:
         if: github.ref == 'refs/heads/main'
         run: |-
           git diff
-          git config --global user.email "christoph.werner@smartclip.tv"
-          git config --global user.name "Christoph Werner"
+          git config --global user.email "noreply@smartclip.tv"
+          git config --global user.name "Smartclip GitHub Profile Updater"
           git commit -am "chore: update `README` jobs [no-ci]" || exit 0
           git push
