@@ -22,7 +22,7 @@ Browse through our open positions below.
 
 * [Technical Product Owner (f/m/d)](https://careers.smartclip.tv/jobs/4494404-technical-product-owner-f-m-d)
 
-* [Software Engineer API (f/m/d) - Node.js, Typescript](https://careers.smartclip.tv/jobs/4480061-software-engineer-api-f-m-d-node-js-typescript)
+* [Senior Software Engineer API (f/m/d) - Node.js, Typescript](https://careers.smartclip.tv/jobs/4480061-senior-software-engineer-api-f-m-d-node-js-typescript)
 
 * [DevOps Engineer - Kubernetes (w/m/d)](https://careers.smartclip.tv/jobs/3484706-devops-engineer-kubernetes-w-m-d)
 
