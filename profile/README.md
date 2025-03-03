@@ -22,8 +22,6 @@ Browse through our open positions below.
 
 * [Software Engineer - C++ (f/m/d)](https://careers.smartclip.tv/jobs/4985703-software-engineer-c-f-m-d)
 
-* [Technical Product Owner (f/m/d)](https://careers.smartclip.tv/jobs/4494404-technical-product-owner-f-m-d)
-
 * [Senior Software Engineer API (f/m/d) - Node.js, Typescript](https://careers.smartclip.tv/jobs/4480061-senior-software-engineer-api-f-m-d-node-js-typescript)
 
 * [Data Engineer - TV Data (w/m/d)](https://careers.smartclip.tv/jobs/2948619-data-engineer-tv-data-w-m-d)
