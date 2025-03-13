@@ -16,6 +16,8 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
+* [Business Product Manager (f/m/d) - Adtech](https://careers.smartclip.tv/jobs/5677844-business-product-manager-f-m-d-adtech)
+
 * [Technical Product Owner (f/m/d) - Programmatic](https://careers.smartclip.tv/jobs/5617881-technical-product-owner-f-m-d-programmatic)
 
 * [Senior Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/5402253-senior-full-stack-software-engineer-f-m-d-react-node-js)
