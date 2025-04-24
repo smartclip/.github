@@ -16,7 +16,7 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
-* [Business Product Manager (f/m/d) - Adtech/Suppy Products](https://careers.smartclip.tv/jobs/5677844-business-product-manager-f-m-d-adtech-suppy-products)
+* [Business Product Manager (f/m/d) - Adtech/Supply Products](https://careers.smartclip.tv/jobs/5677844-business-product-manager-f-m-d-adtech-supply-products)
 
 * [Technical Product Owner (f/m/d) - Programmatic](https://careers.smartclip.tv/jobs/5617881-technical-product-owner-f-m-d-programmatic)
 
