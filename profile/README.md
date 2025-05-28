@@ -16,6 +16,12 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
+* [Product Manager (f/m/d) AI Agents - Business Intelligence and KPI Monitoring](https://careers.smartclip.tv/jobs/5988738-product-manager-f-m-d-ai-agents-business-intelligence-and-kpi-monitoring)
+
+* [Product Manager (f/m/d) AI Agents - Campaign Management and Ad Operations](https://careers.smartclip.tv/jobs/5988399-product-manager-f-m-d-ai-agents-campaign-management-and-ad-operations)
+
+* [DevOps Engineer - Kubernetes (w/m/d)](https://careers.smartclip.tv/jobs/5986479-devops-engineer-kubernetes-w-m-d)
+
 * [Software Engineer - C++ (f/m/d)](https://careers.smartclip.tv/jobs/5948649-software-engineer-c-f-m-d)
 
 * [Business Product Manager (f/m/d) - Adtech/Supply Products](https://careers.smartclip.tv/jobs/5677844-business-product-manager-f-m-d-adtech-supply-products)
@@ -23,8 +29,6 @@ Browse through our open positions below.
 * [Technical Product Owner (f/m/d) - Programmatic](https://careers.smartclip.tv/jobs/5617881-technical-product-owner-f-m-d-programmatic)
 
 * [Senior Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/5402253-senior-full-stack-software-engineer-f-m-d-react-node-js)
-
-* [Senior Software Engineer API (f/m/d) - Node.js, Typescript](https://careers.smartclip.tv/jobs/4480061-senior-software-engineer-api-f-m-d-node-js-typescript)
 
 * [Data Engineer - TV Data (w/m/d)](https://careers.smartclip.tv/jobs/2948619-data-engineer-tv-data-w-m-d)
 
