@@ -28,8 +28,6 @@ Browse through our open positions below.
 
 * [Technical Product Owner (f/m/d) - Programmatic](https://careers.smartclip.tv/jobs/5617881-technical-product-owner-f-m-d-programmatic)
 
-* [Senior Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/5402253-senior-full-stack-software-engineer-f-m-d-react-node-js)
-
 * [Data Engineer - TV Data (w/m/d)](https://careers.smartclip.tv/jobs/2948619-data-engineer-tv-data-w-m-d)
 
 <!-- jobs end -->
