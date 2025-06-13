@@ -16,6 +16,8 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
+* [Data Engineer (f/m/d) - AI](https://careers.smartclip.tv/jobs/6051390-data-engineer-f-m-d-ai)
+
 * [Product Manager (f/m/d) AI Agents - Business Intelligence and KPI Monitoring](https://careers.smartclip.tv/jobs/5988738-product-manager-f-m-d-ai-agents-business-intelligence-and-kpi-monitoring)
 
 * [Product Manager (f/m/d) AI Agents - Campaign Management and Ad Operations](https://careers.smartclip.tv/jobs/5988399-product-manager-f-m-d-ai-agents-campaign-management-and-ad-operations)
