@@ -24,8 +24,6 @@ Browse through our open positions below.
 
 * [DevOps Engineer - Kubernetes (w/m/d)](https://careers.smartclip.tv/jobs/5986479-devops-engineer-kubernetes-w-m-d)
 
-* [Software Engineer (f/m/d) - C++](https://careers.smartclip.tv/jobs/5948649-software-engineer-f-m-d-c)
-
 * [Business Product Manager (f/m/d) - Adtech/Supply Products](https://careers.smartclip.tv/jobs/5677844-business-product-manager-f-m-d-adtech-supply-products)
 
 * [Technical Product Owner (f/m/d) - Programmatic](https://careers.smartclip.tv/jobs/5617881-technical-product-owner-f-m-d-programmatic)
