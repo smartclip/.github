@@ -16,6 +16,8 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
+* [Technical Product Owner (w/m/d) - UI](https://careers.smartclip.tv/jobs/6227355-technical-product-owner-w-m-d-ui)
+
 * [Data Engineer (f/m/d) - AI](https://careers.smartclip.tv/jobs/6051390-data-engineer-f-m-d-ai)
 
 * [Product Manager (f/m/d) AI Agents - Business Intelligence and KPI Monitoring](https://careers.smartclip.tv/jobs/5988738-product-manager-f-m-d-ai-agents-business-intelligence-and-kpi-monitoring)
