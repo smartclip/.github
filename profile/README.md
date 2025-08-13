@@ -20,8 +20,6 @@ Browse through our open positions below.
 
 * [Data Engineer (f/m/d) - AI](https://careers.smartclip.tv/jobs/6051390-data-engineer-f-m-d-ai)
 
-* [Product Manager (f/m/d) AI Agents - Business Intelligence and KPI Monitoring](https://careers.smartclip.tv/jobs/5988738-product-manager-f-m-d-ai-agents-business-intelligence-and-kpi-monitoring)
-
 * [Product Manager (f/m/d) AI Agents - Campaign Management and Ad Operations](https://careers.smartclip.tv/jobs/5988399-product-manager-f-m-d-ai-agents-campaign-management-and-ad-operations)
 
 * [DevOps Engineer - Kubernetes (w/m/d)](https://careers.smartclip.tv/jobs/5986479-devops-engineer-kubernetes-w-m-d)
@@ -29,8 +27,6 @@ Browse through our open positions below.
 * [Business Product Manager (f/m/d) - Adtech/Supply Products](https://careers.smartclip.tv/jobs/5677844-business-product-manager-f-m-d-adtech-supply-products)
 
 * [Technical Product Owner (f/m/d) - Programmatic](https://careers.smartclip.tv/jobs/5617881-technical-product-owner-f-m-d-programmatic)
-
-* [Data Engineer - TV Data (w/m/d)](https://careers.smartclip.tv/jobs/2948619-data-engineer-tv-data-w-m-d)
 
 <!-- jobs end -->
 
