@@ -16,6 +16,8 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
+* [Software Engineer API (f/m/d) - Node.js, SQL](https://careers.smartclip.tv/jobs/6494826-software-engineer-api-f-m-d-node-js-sql)
+
 * [Software Engineer (w/m/d) - TV](https://careers.smartclip.tv/jobs/6428830-software-engineer-w-m-d-tv)
 
 * [Data Engineer (f/m/d) - AI](https://careers.smartclip.tv/jobs/6359412-data-engineer-f-m-d-ai)
