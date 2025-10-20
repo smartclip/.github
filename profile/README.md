@@ -22,6 +22,8 @@ Browse through our open positions below.
 
 * [Data Engineer (f/m/d) - AI](https://careers.smartclip.tv/jobs/6359412-data-engineer-f-m-d-ai)
 
+* [Software Engineer (w/m/d) - Scala](https://careers.smartclip.tv/jobs/6295599-software-engineer-w-m-d-scala)
+
 * [Technical Product Owner (w/m/d) - UI](https://careers.smartclip.tv/jobs/6227355-technical-product-owner-w-m-d-ui)
 
 * [Product Manager (f/m/d) AI Agents - Campaign Management and Ad Operations](https://careers.smartclip.tv/jobs/5988399-product-manager-f-m-d-ai-agents-campaign-management-and-ad-operations)
