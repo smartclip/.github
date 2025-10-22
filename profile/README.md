@@ -16,7 +16,11 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
-* [Data Engineer (f/m/d) - TV](https://careers.smartclip.tv/jobs/6636595-data-engineer-f-m-d-tv)
+* [Senior Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/6649834-senior-full-stack-software-engineer-f-m-d-react-node-js)
+
+* [Technical Product Owner (w/m/d) - Data](https://careers.smartclip.tv/jobs/6648880-technical-product-owner-w-m-d-data)
+
+* [Data Engineer (w/m/d) - TV](https://careers.smartclip.tv/jobs/6636595-data-engineer-w-m-d-tv)
 
 * [Software Engineer API (f/m/d) - Node.js, SQL](https://careers.smartclip.tv/jobs/6494826-software-engineer-api-f-m-d-node-js-sql)
 
