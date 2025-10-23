@@ -26,7 +26,7 @@ Browse through our open positions below.
 
 * [Software Engineer (w/m/d) - TV](https://careers.smartclip.tv/jobs/6428830-software-engineer-w-m-d-tv)
 
-* [Data Engineer (f/m/d) - AI](https://careers.smartclip.tv/jobs/6359412-data-engineer-f-m-d-ai)
+* [Data Engineer (w/m/d) - AI](https://careers.smartclip.tv/jobs/6359412-data-engineer-w-m-d-ai)
 
 * [Software Engineer (w/m/d) - Scala](https://careers.smartclip.tv/jobs/6295599-software-engineer-w-m-d-scala)
 
