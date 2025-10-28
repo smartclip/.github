@@ -34,8 +34,6 @@ Browse through our open positions below.
 
 * [Product Manager (f/m/d) AI Agents - Campaign Management and Ad Operations](https://careers.smartclip.tv/jobs/5988399-product-manager-f-m-d-ai-agents-campaign-management-and-ad-operations)
 
-* [DevOps Engineer - Kubernetes (w/m/d)](https://careers.smartclip.tv/jobs/5986479-devops-engineer-kubernetes-w-m-d)
-
 * [Technical Product Owner (f/m/d) - Programmatic](https://careers.smartclip.tv/jobs/5617881-technical-product-owner-f-m-d-programmatic)
 
 <!-- jobs end -->
