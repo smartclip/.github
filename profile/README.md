@@ -32,8 +32,6 @@ Browse through our open positions below.
 
 * [Technical Product Owner (w/m/d) - UI](https://careers.smartclip.tv/jobs/6227355-technical-product-owner-w-m-d-ui)
 
-* [Product Manager (f/m/d) AI Agents - Campaign Management and Ad Operations](https://careers.smartclip.tv/jobs/5988399-product-manager-f-m-d-ai-agents-campaign-management-and-ad-operations)
-
 * [Technical Product Owner (f/m/d) - Programmatic](https://careers.smartclip.tv/jobs/5617881-technical-product-owner-f-m-d-programmatic)
 
 <!-- jobs end -->
