@@ -30,8 +30,6 @@ Browse through our open positions below.
 
 * [Software Engineer (w/m/d) - Scala](https://careers.smartclip.tv/jobs/6295599-software-engineer-w-m-d-scala)
 
-* [Technical Product Owner (w/m/d) - UI](https://careers.smartclip.tv/jobs/6227355-technical-product-owner-w-m-d-ui)
-
 * [Technical Product Owner (f/m/d) - Programmatic](https://careers.smartclip.tv/jobs/5617881-technical-product-owner-f-m-d-programmatic)
 
 <!-- jobs end -->
