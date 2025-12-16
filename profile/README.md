@@ -16,6 +16,8 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
+* [Business Product Manager (w/m/d) - Data Products](https://careers.smartclip.tv/jobs/6934722-business-product-manager-w-m-d-data-products)
+
 * [Senior Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/6649834-senior-full-stack-software-engineer-f-m-d-react-node-js)
 
 * [Technical Product Owner (w/m/d) - Data](https://careers.smartclip.tv/jobs/6648880-technical-product-owner-w-m-d-data)
