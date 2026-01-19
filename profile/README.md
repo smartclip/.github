@@ -16,6 +16,8 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
+* [AI Research Engineer (w/m/d)](https://careers.smartclip.tv/jobs/7074128-ai-research-engineer-w-m-d)
+
 * [Business Product Manager (w/m/d) - Data Products](https://careers.smartclip.tv/jobs/6934722-business-product-manager-w-m-d-data-products)
 
 * [Senior Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/6649834-senior-full-stack-software-engineer-f-m-d-react-node-js)
