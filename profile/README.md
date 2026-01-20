@@ -20,6 +20,8 @@ Browse through our open positions below.
 
 * [Business Product Manager (w/m/d) - Data Products](https://careers.smartclip.tv/jobs/6934722-business-product-manager-w-m-d-data-products)
 
+* [Growth Product Manager / Business Development Manager (w/m/d) - AdTech / TV](https://careers.smartclip.tv/jobs/6928627-growth-product-manager-business-development-manager-w-m-d-adtech-tv)
+
 * [Senior Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/6649834-senior-full-stack-software-engineer-f-m-d-react-node-js)
 
 * [Technical Product Owner (w/m/d) - Data](https://careers.smartclip.tv/jobs/6648880-technical-product-owner-w-m-d-data)
@@ -31,8 +33,6 @@ Browse through our open positions below.
 * [Software Engineer (w/m/d) - TV](https://careers.smartclip.tv/jobs/6428830-software-engineer-w-m-d-tv)
 
 * [Data Engineer (w/m/d) - AI](https://careers.smartclip.tv/jobs/6359412-data-engineer-w-m-d-ai)
-
-* [Software Engineer (w/m/d) - Scala](https://careers.smartclip.tv/jobs/6295599-software-engineer-w-m-d-scala)
 
 * [Technical Product Owner (f/m/d) - Programmatic](https://careers.smartclip.tv/jobs/5617881-technical-product-owner-f-m-d-programmatic)
 
