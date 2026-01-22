@@ -34,8 +34,6 @@ Browse through our open positions below.
 
 * [Data Engineer (w/m/d) - AI](https://careers.smartclip.tv/jobs/6359412-data-engineer-w-m-d-ai)
 
-* [Technical Product Owner (f/m/d) - Programmatic](https://careers.smartclip.tv/jobs/5617881-technical-product-owner-f-m-d-programmatic)
-
 <!-- jobs end -->
 
 </td></tr></table>
