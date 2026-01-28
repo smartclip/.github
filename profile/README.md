@@ -16,19 +16,19 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
+* [Senior Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/7130731-senior-full-stack-software-engineer-f-m-d-react-node-js)
+
 * [AI Research Engineer (w/m/d)](https://careers.smartclip.tv/jobs/7074128-ai-research-engineer-w-m-d)
 
 * [Business Product Manager (w/m/d) - Data Products](https://careers.smartclip.tv/jobs/6934722-business-product-manager-w-m-d-data-products)
 
 * [Growth Product Manager / Business Development Manager (w/m/d) - AdTech / TV](https://careers.smartclip.tv/jobs/6928627-growth-product-manager-business-development-manager-w-m-d-adtech-tv)
 
-* [Senior Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/6649834-senior-full-stack-software-engineer-f-m-d-react-node-js)
-
 * [Technical Product Owner (w/m/d) - Data](https://careers.smartclip.tv/jobs/6648880-technical-product-owner-w-m-d-data)
 
 * [Data Engineer (w/m/d) - TV](https://careers.smartclip.tv/jobs/6636595-data-engineer-w-m-d-tv)
 
-* [Software Engineer API (f/m/d) - Node.js, SQL](https://careers.smartclip.tv/jobs/6494826-software-engineer-api-f-m-d-node-js-sql)
+* [Senior Software Engineer API (f/m/d) - Node.js, SQL](https://careers.smartclip.tv/jobs/6494826-senior-software-engineer-api-f-m-d-node-js-sql)
 
 * [Software Engineer (w/m/d) - TV](https://careers.smartclip.tv/jobs/6428830-software-engineer-w-m-d-tv)
 
