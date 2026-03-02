@@ -24,8 +24,6 @@ Browse through our open positions below.
 
 * [Business Product Manager (w/m/d) - Data Products](https://careers.smartclip.tv/jobs/6934722-business-product-manager-w-m-d-data-products)
 
-* [Growth Product Manager / Business Development Manager (w/m/d) - AdTech / TV](https://careers.smartclip.tv/jobs/6928627-growth-product-manager-business-development-manager-w-m-d-adtech-tv)
-
 * [Data Engineer (w/m/d) - TV](https://careers.smartclip.tv/jobs/6636595-data-engineer-w-m-d-tv)
 
 * [Senior Software Engineer API (f/m/d) - Node.js, SQL](https://careers.smartclip.tv/jobs/6494826-senior-software-engineer-api-f-m-d-node-js-sql)
