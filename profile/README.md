@@ -16,6 +16,8 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
+* [C++ Engineer (w/m/d)](https://careers.smartclip.tv/jobs/7345949-c-engineer-w-m-d)
+
 * [Product Manager (f/m/d) - AI](https://careers.smartclip.tv/jobs/7212898-product-manager-f-m-d-ai)
 
 * [UI Engineer (f/m/d) - AI](https://careers.smartclip.tv/jobs/7211417-ui-engineer-f-m-d-ai)
@@ -25,8 +27,6 @@ Browse through our open positions below.
 * [Business Product Manager (w/m/d) - Data Products](https://careers.smartclip.tv/jobs/6934722-business-product-manager-w-m-d-data-products)
 
 * [Junior Technical Product Owner (w/m/d) - Data](https://careers.smartclip.tv/jobs/6648880-junior-technical-product-owner-w-m-d-data)
-
-* [Data Engineer (w/m/d) - TV](https://careers.smartclip.tv/jobs/6636595-data-engineer-w-m-d-tv)
 
 * [Senior Software Engineer API (f/m/d) - Node.js, SQL](https://careers.smartclip.tv/jobs/6494826-senior-software-engineer-api-f-m-d-node-js-sql)
 
