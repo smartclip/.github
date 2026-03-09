@@ -16,6 +16,8 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
+* [Data Engineer (w/m/d) - TV](https://careers.smartclip.tv/jobs/7349318-data-engineer-w-m-d-tv)
+
 * [C++ Engineer (w/m/d)](https://careers.smartclip.tv/jobs/7345949-c-engineer-w-m-d)
 
 * [Product Manager (f/m/d) - AI](https://careers.smartclip.tv/jobs/7212898-product-manager-f-m-d-ai)
