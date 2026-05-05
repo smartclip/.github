@@ -16,6 +16,8 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
+* [UI Engineer (f/m/d) - AI](https://careers.smartclip.tv/jobs/7635115-ui-engineer-f-m-d-ai)
+
 * [DevOps Engineer (w/m/d) - Google Cloud Platform](https://careers.smartclip.tv/jobs/7466217-devops-engineer-w-m-d-google-cloud-platform)
 
 * [Data Engineer (f/m/d) - TV](https://careers.smartclip.tv/jobs/7349318-data-engineer-f-m-d-tv)
@@ -23,8 +25,6 @@ Browse through our open positions below.
 * [C++ Engineer (f/m/d)](https://careers.smartclip.tv/jobs/7345949-c-engineer-f-m-d)
 
 * [Product Manager (f/m/d) - AI](https://careers.smartclip.tv/jobs/7212898-product-manager-f-m-d-ai)
-
-* [UI Engineer (f/m/d) - AI](https://careers.smartclip.tv/jobs/7211417-ui-engineer-f-m-d-ai)
 
 * [Senior Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/7130731-senior-full-stack-software-engineer-f-m-d-react-node-js)
 
