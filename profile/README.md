@@ -24,8 +24,6 @@ Browse through our open positions below.
 
 * [Product Manager (f/m/d) - AI](https://careers.smartclip.tv/jobs/7212898-product-manager-f-m-d-ai)
 
-* [UI Engineer (f/m/d) - AI](https://careers.smartclip.tv/jobs/7211417-ui-engineer-f-m-d-ai)
-
 * [Senior Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/7130731-senior-full-stack-software-engineer-f-m-d-react-node-js)
 
 * [Junior Technical Product Owner (f/m/d) - Data](https://careers.smartclip.tv/jobs/6648880-junior-technical-product-owner-f-m-d-data)
