@@ -16,8 +16,6 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
-* [AI Engineer (f/m/d)](https://careers.smartclip.tv/jobs/7762664-ai-engineer-f-m-d)
-
 * [Site Reliability Engineer (f/m/d) – Observability & Internal Tools](https://careers.smartclip.tv/jobs/7728927-site-reliability-engineer-f-m-d-observability-internal-tools)
 
 * [DevOps Engineer (w/m/d) - Google Cloud Platform](https://careers.smartclip.tv/jobs/7466217-devops-engineer-w-m-d-google-cloud-platform)
