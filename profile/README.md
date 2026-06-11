@@ -20,8 +20,6 @@ Browse through our open positions below.
 
 * [DevOps Engineer (w/m/d) - Google Cloud Platform](https://careers.smartclip.tv/jobs/7466217-devops-engineer-w-m-d-google-cloud-platform)
 
-* [Data Engineer (f/m/d) - TV](https://careers.smartclip.tv/jobs/7349318-data-engineer-f-m-d-tv)
-
 * [C++ Engineer (f/m/d)](https://careers.smartclip.tv/jobs/7345949-c-engineer-f-m-d)
 
 * [Product Manager (f/m/d) - AI](https://careers.smartclip.tv/jobs/7212898-product-manager-f-m-d-ai)
