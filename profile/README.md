@@ -16,6 +16,8 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
+* [Software Engineer (f/m/d) – Data Platforms](https://careers.smartclip.tv/jobs/7978992-software-engineer-f-m-d-data-platforms)
+
 * [Senior Product Manager (f/m/d) – AI](https://careers.smartclip.tv/jobs/7949959-senior-product-manager-f-m-d-ai)
 
 * [Site Reliability Engineer (f/m/d) – Observability & Internal Tools](https://careers.smartclip.tv/jobs/7728927-site-reliability-engineer-f-m-d-observability-internal-tools)
