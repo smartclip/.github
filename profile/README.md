@@ -18,15 +18,11 @@ Browse through our open positions below.
 
 * [Software Engineer (f/m/d) – Data Platforms](https://careers.smartclip.tv/jobs/7978992-software-engineer-f-m-d-data-platforms)
 
-* [Senior Product Manager (f/m/d) – AI](https://careers.smartclip.tv/jobs/7949959-senior-product-manager-f-m-d-ai)
-
 * [Site Reliability Engineer (f/m/d) – Observability & Internal Tools](https://careers.smartclip.tv/jobs/7728927-site-reliability-engineer-f-m-d-observability-internal-tools)
 
 * [DevOps Engineer (w/m/d) - Google Cloud Platform](https://careers.smartclip.tv/jobs/7466217-devops-engineer-w-m-d-google-cloud-platform)
 
 * [C++ Engineer (f/m/d)](https://careers.smartclip.tv/jobs/7345949-c-engineer-f-m-d)
-
-* [Product Manager (f/m/d) - AI](https://careers.smartclip.tv/jobs/7212898-product-manager-f-m-d-ai)
 
 * [Senior Full Stack Software Engineer (f/m/d) - React, Node.js](https://careers.smartclip.tv/jobs/7130731-senior-full-stack-software-engineer-f-m-d-react-node-js)
 
