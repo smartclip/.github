@@ -30,7 +30,7 @@ Browse through our open positions below.
 
 * [Software Engineer API (f/m/d) - Node.js, SQL](https://careers.smartclip.tv/jobs/6494826-software-engineer-api-f-m-d-node-js-sql)
 
-* [Software Engineer (f/m/d) - TV](https://careers.smartclip.tv/jobs/6428830-software-engineer-f-m-d-tv)
+* [Software Engineer (f/m/d) – Cross-Platform SDK Development](https://careers.smartclip.tv/jobs/6428830-software-engineer-f-m-d-cross-platform-sdk-development)
 
 <!-- jobs end -->
 
