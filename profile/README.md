@@ -16,6 +16,8 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
+* [Technical Product Owner (f/m/d) – Software & Full Stack Applications](https://careers.smartclip.tv/jobs/8286453-technical-product-owner-f-m-d-software-full-stack-applications)
+
 * [Software Engineer (f/m/d) – Data Platforms](https://careers.smartclip.tv/jobs/7978992-software-engineer-f-m-d-data-platforms)
 
 * [Site Reliability Engineer (f/m/d) – Observability & Internal Tools](https://careers.smartclip.tv/jobs/7728927-site-reliability-engineer-f-m-d-observability-internal-tools)
