@@ -26,6 +26,8 @@ Browse through our open positions below.
 
 * [C++ Engineer (f/m/d)](https://careers.smartclip.tv/jobs/7345949-c-engineer-f-m-d)
 
+* [Senior Full Stack Software Engineer (f/m/d) – AI, React, Node.js & TypeScript](https://careers.smartclip.tv/jobs/7130731-senior-full-stack-software-engineer-f-m-d-ai-react-node-js-typescript)
+
 * [Junior Technical Product Owner (f/m/d) - Data](https://careers.smartclip.tv/jobs/6648880-junior-technical-product-owner-f-m-d-data)
 
 * [Software Engineer API (f/m/d) - Node.js, SQL](https://careers.smartclip.tv/jobs/6494826-software-engineer-api-f-m-d-node-js-sql)
