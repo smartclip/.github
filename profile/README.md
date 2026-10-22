@@ -16,8 +16,6 @@ Browse through our open positions below.
 
 <!-- jobs start -->
 
-* [Technical Product Owner (f/m/d) – Software & Full Stack Applications](https://careers.smartclip.tv/jobs/8286453-technical-product-owner-f-m-d-software-full-stack-applications)
-
 * [Software Engineer (f/m/d) – Data Platforms](https://careers.smartclip.tv/jobs/7978992-software-engineer-f-m-d-data-platforms)
 
 * [Site Reliability Engineer (w/m/d) – Observability & Internal Tools](https://careers.smartclip.tv/jobs/7728927-site-reliability-engineer-w-m-d-observability-internal-tools)
@@ -26,7 +24,7 @@ Browse through our open positions below.
 
 * [C++ Engineer (w/m/d)](https://careers.smartclip.tv/jobs/7345949-c-engineer-w-m-d)
 
-* [Senior Full Stack Software Engineer (f/m/d) – AI, React, Node.js & TypeScript](https://careers.smartclip.tv/jobs/7130731-senior-full-stack-software-engineer-f-m-d-ai-react-node-js-typescript)
+* [Senior Full Stack Software Engineer (f/m/d) – React, Node.js, TypeScript + AI](https://careers.smartclip.tv/jobs/7130731-senior-full-stack-software-engineer-f-m-d-react-node-js-typescript-ai)
 
 * [Software Engineer API (f/m/d) - Node.js, SQL](https://careers.smartclip.tv/jobs/6494826-software-engineer-api-f-m-d-node-js-sql)
 
