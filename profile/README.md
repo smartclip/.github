@@ -24,7 +24,7 @@ Browse through our open positions below.
 
 * [C++ Engineer (w/m/d)](https://careers.smartclip.tv/jobs/7345949-c-engineer-w-m-d)
 
-* [Senior Full Stack Software Engineer (f/m/d) – React, Node.js, TypeScript + AI](https://careers.smartclip.tv/jobs/7130731-senior-full-stack-software-engineer-f-m-d-react-node-js-typescript-ai)
+* [Senior Full Stack Software Engineer (w/m/d) – React, Node.js, TypeScript + AI](https://careers.smartclip.tv/jobs/7130731-senior-full-stack-software-engineer-w-m-d-react-node-js-typescript-ai)
 
 * [Software Engineer API (f/m/d) - Node.js, SQL](https://careers.smartclip.tv/jobs/6494826-software-engineer-api-f-m-d-node-js-sql)
 
